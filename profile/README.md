@@ -14,10 +14,10 @@ De volgende repositories zijn momenteel beschikbaar voor de **iStandaard iWlz - 
 - Codelijst beschrijvingen iWlz [Codelijsten](https://github.com/iStandaarden/iWlz-codelijsten-APiWlz)
 
 
-## Ontwikkeling - Ontwerp
+## Ontwikkeling - Ontwerp - Wijzigingsverzoeken
 Daarnaast zijn er repositories die betrekking hebben op de ontwikkeling van het Netwerkmodel iWlz.
-- De verschillende technische uitwerkingen met betrekking tot die ontwikkeling en de status daarvan staan in het project [Request for Comments](https://github.com/orgs/iStandaarden/projects/5)
-- [Lua-scripts](https://github.com/iStandaarden/iWlz-luascripts) 
+- De verschillende technische uitwerkingen (Request for Comments) met betrekking tot die ontwikkeling en de status daarvan staan in het project [Request for Comments](https://github.com/orgs/iStandaarden/projects/5)
+- De wijzigingsverzoeken (Request for Changes) en de bevindingen met betrekking tot het berichtenmodel of netwerkmodel staan in het project [Wijzigingsverzoeken](https://github.com/orgs/iStandaarden/projects/9)
 
 
 ## Contact
